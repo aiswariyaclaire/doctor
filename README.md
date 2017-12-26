@@ -6,5 +6,5 @@
 **Each Team with a Mentor to Guide us*
 - [ ]  Installing Git
 - [ ]  Basic Configuration
-- [ ]  git init
-- [ ]  local repo
+- [ ]  Creating local repo
+- [ ]  pushing Local repo to online Repo
